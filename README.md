@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Backend projects
 - 🤔 I’m looking for help with System Design
 - 💬 Ask me about Java
-- 📫 How to reach me: 99santhoshs@gmail.com
+- 📫 You can reach me via 99santhoshs@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Santhosh-1997&color=green)
 
