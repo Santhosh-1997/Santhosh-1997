@@ -5,6 +5,13 @@
 - 🤔 I’m looking for help with System Design
 - 💬 Ask me about Java
 - 📫 How to reach me: 99santhoshs@gmail.com
+
+![](https://komarev.com/ghpvc/?username=Santhosh-1997&color=green)
+
+
+
+
+
 <!--
 **Santhosh-1997/Santhosh-1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
